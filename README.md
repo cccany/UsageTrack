@@ -129,3 +129,6 @@ constexpr float LOW_USD = 2.00f;
 - Balance: <https://docs.ollama.com/api/balance>
 - Usage history: <https://docs.ollama.com/api/usage>
 - Keys: <https://ollama.com/settings/keys>
+
+## 3D Printed Enclosure
+Aditional STL files for the parts used in this project.
